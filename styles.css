@@ -21,7 +21,7 @@ body {
 
 .card {
     width: 400px;
-    margin: 100px auto;
+    margin: 170px auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
@@ -54,7 +54,7 @@ body {
      100% {background-color:#ddfff7;}
 }
 .avatar:hover{
-    box-shadow: 4px 4px 49px #a18dce
+    box-shadow: 4px 4px 70px #a18dce
 }
 /*
 Stretch goals:
